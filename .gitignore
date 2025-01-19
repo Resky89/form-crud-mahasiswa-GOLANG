@@ -1,0 +1,53 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Go build and debug
+/bin/
+/pkg/
+debug/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Dependencies
+/vendor/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Temporary files
+tmp/
+temp/
+
+# Build output
+/dist/
+/build/
+
+# PHP specific
+/vendor/
+composer.lock
+*.cache
+
+# Others
+node_modules/
+coverage/ 

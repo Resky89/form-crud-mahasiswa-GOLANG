@@ -1,6 +1,3 @@
-Berikut adalah contoh file `README.md` untuk repositori `form-crud-mahasiswa-GOLANG` Anda:
-
-```markdown
 # Form CRUD Mahasiswa - Golang
 
 Selamat datang di repositori Form CRUD Mahasiswa! Proyek ini bertujuan untuk menyediakan aplikasi sederhana untuk mengelola data mahasiswa menggunakan bahasa pemrograman Go dan Hack. Aplikasi ini memungkinkan Anda untuk membuat, membaca, memperbarui, dan menghapus (CRUD) data mahasiswa.
